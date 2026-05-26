@@ -6,4 +6,7 @@ let obj = {
 
 obj.name = "sachin tendulkar";
 
+obj.city = "mumbai";
+
 console.log(obj.name);
+console.log(obj.city);
