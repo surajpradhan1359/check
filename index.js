@@ -8,5 +8,7 @@ obj.name = "sachin tendulkar";
 
 obj.city = "mumbai";
 
+let name = obj.name;
+
 console.log(obj.name);
 console.log(obj.city);
