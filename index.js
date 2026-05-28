@@ -10,5 +10,7 @@ obj.city = "mumbai";
 
 let name = obj.name;
 
+let string = `my name is ${obj.name} and i am from ${obj.city}`;
+
 console.log(obj.name);
 console.log(obj.city);
